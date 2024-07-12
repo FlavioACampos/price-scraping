@@ -16,6 +16,7 @@ DOWNLOADER_MIDDLEWARES = {
     "retail.middlewares.RandomUserAgentMiddleware": 400,
 }
 
+# TODO: https://pypi.org/project/free-proxy/
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = "retail (+http://www.yourdomain.com)"
